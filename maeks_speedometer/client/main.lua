@@ -12,7 +12,7 @@ Citizen.CreateThread(function()
             local vehicle = GetVehiclePedIsIn(ped, false)
             local fuel = GetVehicleFuelLevel(vehicle)
             local gear = GetVehicleCurrentGear(vehicle)
-            local speed = GetEntitySpeed(vehicle)*3.6 -- KMH
+            local speed = GetEntitySpeed(vehicle)*3.6 
 
             SendNUIMessage({
                 isInVehicle = isInVehicle;
