@@ -1,3 +1,3 @@
 Config = {}
 
-Config['TickTime'] = 50 -- Refresh time while not in the vehicle
+Config['TickTime'] = 50 -- Aktualisierung pro Zeiteinheit [Standart = 50]
