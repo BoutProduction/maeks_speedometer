@@ -2,8 +2,9 @@ fx_version 'adamant'
 
 game 'gta5'
 
-author 'Ader#6491'
-description 'Ader Standalone Speedometer'
+author 'Maeks [Credits to Aderdevil]'
+description 'Maeks Speedometer'
+
 version '1.0.0'
 
 ui_page 'html/index.html'
