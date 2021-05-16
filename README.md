@@ -16,7 +16,7 @@ This script is based on ader_speedo: https://github.com/aderdevil/ader_speedo
 
 Requirements:
 
-- none
+- LegacyFuel (https://github.com/InZidiuZ/LegacyFuel)
 
 -----------------------------------------------------
 
